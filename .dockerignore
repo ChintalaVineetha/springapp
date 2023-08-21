@@ -1,7 +1,6 @@
 # Exclude Maven build artifacts
 /target/
-*.class
-*.jar
+
 # Exclude generated files
 /generated-sources/
 /generated-test-sources/
