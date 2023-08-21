@@ -1,5 +1,3 @@
-# Exclude Maven build artifacts
-/target/
 
 # Exclude generated files
 /generated-sources/
